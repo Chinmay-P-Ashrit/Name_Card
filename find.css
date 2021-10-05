@@ -1,0 +1,12 @@
+body{
+    background colour:blue;
+    text align:center;
+}
+div{
+    background-color: rgb(red, green, blue);
+    border: 20px;
+    border-radius: 20px;
+    border style:dotted;
+    width: 500px;
+    margin: left 500px;
+}
